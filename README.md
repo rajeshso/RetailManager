@@ -1,5 +1,8 @@
 ### The Asset Management Digital Challenge
 
+## Continuous Integration
+[![Build Status](https://travis-ci.org/rajeshso/RetailManager.svg?branch=master)](https://travis-ci.org/rajeshso/RetailManager)
+
 Using Spring Boot (https://spring.io/guides/gs/spring-boot/),
 develop a working prototype which satisfies the following criteria:
 
